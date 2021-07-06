@@ -1,0 +1,66 @@
+[
+  {
+    "ID": 1,
+    "UCI_CODE": "SKY",
+    "NAME": " TEAM SKY",
+    "COUNTRY": "Great Britain",
+    "STAGE_VICTORIES": 1,
+    "RIDERS": 8
+  },
+  {
+    "ID": 2,
+    "UCI_CODE": "ALM",
+    "NAME": "AG2R LA MONDIALE",
+    "COUNTRY": "France",
+    "STAGE_VICTORIES": 1,
+    "RIDERS": 9
+  },
+  {
+    "ID": 3,
+    "UCI_CODE": "TFS",
+    "NAME": "TREK - SEGAFREDO",
+    "COUNTRY": "United States",
+    "STAGE_VICTORIES": 1,
+    "RIDERS": 8
+  },
+  {
+    "ID": 4,
+    "UCI_CODE": "BMC",
+    "NAME": "BMC RACING TEAM",
+    "COUNTRY": "United States",
+    "STAGE_VICTORIES": 0,
+    "RIDERS": 8
+  },
+  {
+    "ID": 5,
+    "UCI_CODE": "ORS",
+    "NAME": "ORICA - SCOTT",
+    "COUNTRY": "Australia",
+    "STAGE_VICTORIES": 0,
+    "RIDERS": 8
+  },
+  {
+    "ID": 6,
+    "UCI_CODE": "MOV",
+    "NAME": "MOVISTAR TEAM",
+    "COUNTRY": "Spain",
+    "STAGE_VICTORIES": 1,
+    "RIDERS": 8
+  },
+  {
+    "ID": 7,
+    "UCI_CODE": "CDT",
+    "NAME": "CANNONDALE DRAPAC PROFESSIONAL",
+    "COUNTRY": "United States",
+    "STAGE_VICTORIES": 1,
+    "RIDERS": 9
+  },
+  {
+    "ID": 8,
+    "UCI_CODE": "FVC",
+    "NAME": "TEAM FORTUNEO - OSCARO",
+    "COUNTRY": "France",
+    "STAGE_VICTORIES": 0,
+    "RIDERS": 8
+  }
+]
