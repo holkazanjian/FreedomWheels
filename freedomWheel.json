@@ -9,7 +9,7 @@
   },
   {
     "ID": 2,
-    "UCI_CODE": "ALM",
+    "UCI_CODE": "QST",
     "NAME": "Justification (Callousness)",
     "COUNTRY": "France",
     "STAGE_VICTORIES": 1,
@@ -17,7 +17,7 @@
   },
   {
     "ID": 3,
-    "UCI_CODE": "TFS",
+    "UCI_CODE": "BOH",
     "NAME": "Inflexibility (arrogance)",
     "COUNTRY": "United States",
     "STAGE_VICTORIES": 1,
