@@ -1,7 +1,7 @@
 [
   {
     "ID": 1,
-    "NAME": "I share my ideas, questions",
+    "NAME": "I share my vulnerability",
     "DISTANCE": "14",
     "ROUTE": "I Affirm",
     "WINNER": "THOMAS G.",
@@ -12,7 +12,7 @@
   },
   {
     "ID": 2,
-    "NAME": "STAGE 02",
+    "NAME": "I express my feelings",
     "DISTANCE": "203.5",
     "ROUTE": "DÜSSELDORF / LIÈGE",
     "WINNER": "KITTEL M.",
@@ -23,7 +23,7 @@
   },
   {
     "ID": 3,
-    "NAME": "STAGE 03",
+    "NAME": "I risk taking action",
     "DISTANCE": "212.5",
     "ROUTE": "VERVIERS / LONGWY",
     "WINNER": "SAGAN P.",
@@ -34,7 +34,7 @@
   },
   {
     "ID": 4,
-    "NAME": "STAGE 04",
+    "NAME": "I share my ideas, questions",
     "DISTANCE": "207.5",
     "ROUTE": "MONDORF-LES-BAINS / VITTEL",
     "WINNER": "DEMARE A.",
@@ -45,7 +45,7 @@
   },
   {
     "ID": 5,
-    "NAME": "STAGE 05",
+    "NAME": "Unconditional love",
     "DISTANCE": "160.5",
     "ROUTE": "VITTEL / LA PLANCHE DES BELLES FILLES",
     "WINNER": "ARU F.",
@@ -56,7 +56,7 @@
   },
   {
     "ID": 6,
-    "NAME": "STAGE 06",
+    "NAME": "Compassion",
     "DISTANCE": "216",
     "ROUTE": "VESOUL / TROYES",
     "WINNER": "KITTEL M.",
@@ -67,7 +67,7 @@
   },
   {
     "ID": 7,
-    "NAME": "STAGE 07",
+    "NAME": "Identification",
     "DISTANCE": "213.5",
     "ROUTE": "TROYES / NUITS-SAINT-GEORGES",
     "WINNER": "KITTEL M.",
@@ -78,7 +78,7 @@
   },
   {
     "ID": 8,
-    "NAME": "STAGE 08",
+    "NAME": "Welcoming Input",
     "DISTANCE": "187.5",
     "ROUTE": "DOLE / STATION DES ROUSSES",
     "WINNER": "CALMEJANE L.",
