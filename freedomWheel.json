@@ -2,7 +2,7 @@
   {
     "ID": 1,
     "UCI_CODE": "SKY",
-    "NAME": "This was the team",
+    "NAME": "Defense (Possesiveness)",
     "COUNTRY": "This was the country",
     "STAGE_VICTORIES": 1,
     "RIDERS": 8
@@ -10,7 +10,7 @@
   {
     "ID": 2,
     "UCI_CODE": "ALM",
-    "NAME": "AG2R LA MONDIALE",
+    "NAME": "Justification (Callousness)",
     "COUNTRY": "France",
     "STAGE_VICTORIES": 1,
     "RIDERS": 9
@@ -18,7 +18,7 @@
   {
     "ID": 3,
     "UCI_CODE": "TFS",
-    "NAME": "TREK - SEGAFREDO",
+    "NAME": "Inflexibility (arrogance)",
     "COUNTRY": "United States",
     "STAGE_VICTORIES": 1,
     "RIDERS": 8
@@ -26,7 +26,7 @@
   {
     "ID": 4,
     "UCI_CODE": "BMC",
-    "NAME": "BMC RACING TEAM",
+    "NAME": "Perfectionism (Exhibitionism)",
     "COUNTRY": "United States",
     "STAGE_VICTORIES": 0,
     "RIDERS": 8
@@ -34,7 +34,7 @@
   {
     "ID": 5,
     "UCI_CODE": "ORS",
-    "NAME": "ORICA - SCOTT",
+    "NAME": "Dishonesty (disloyalty)",
     "COUNTRY": "Australia",
     "STAGE_VICTORIES": 0,
     "RIDERS": 8
@@ -42,7 +42,7 @@
   {
     "ID": 6,
     "UCI_CODE": "MOV",
-    "NAME": "MOVISTAR TEAM",
+    "NAME": "Contempt (ridicule)",
     "COUNTRY": "Spain",
     "STAGE_VICTORIES": 1,
     "RIDERS": 8
@@ -50,7 +50,7 @@
   {
     "ID": 7,
     "UCI_CODE": "CDT",
-    "NAME": "CANNONDALE DRAPAC PROFESSIONAL",
+    "NAME": "Disrespect (envy)",
     "COUNTRY": "United States",
     "STAGE_VICTORIES": 1,
     "RIDERS": 9
@@ -58,7 +58,7 @@
   {
     "ID": 8,
     "UCI_CODE": "FVC",
-    "NAME": "TEAM FORTUNEO - OSCARO",
+    "NAME": "Exclusion (ignoring)",
     "COUNTRY": "France",
     "STAGE_VICTORIES": 0,
     "RIDERS": 8
