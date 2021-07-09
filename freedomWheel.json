@@ -25,7 +25,7 @@
   },
   {
     "ID": 4,
-    "UCI_CODE": "BMC",
+    "UCI_CODE": "FDJ",
     "NAME": "Perfectionism (Exhibitionism)",
     "COUNTRY": "United States",
     "STAGE_VICTORIES": 0,
@@ -33,7 +33,7 @@
   },
   {
     "ID": 5,
-    "UCI_CODE": "ORS",
+    "UCI_CODE": "AST",
     "NAME": "Dishonesty (disloyalty)",
     "COUNTRY": "Australia",
     "STAGE_VICTORIES": 0,
@@ -41,7 +41,7 @@
   },
   {
     "ID": 6,
-    "UCI_CODE": "MOV",
+    "UCI_CODE": "QST",
     "NAME": "Contempt (ridicule)",
     "COUNTRY": "Spain",
     "STAGE_VICTORIES": 1,
@@ -49,7 +49,7 @@
   },
   {
     "ID": 7,
-    "UCI_CODE": "CDT",
+    "UCI_CODE": "QST",
     "NAME": "Disrespect (envy)",
     "COUNTRY": "United States",
     "STAGE_VICTORIES": 1,
@@ -57,7 +57,7 @@
   },
   {
     "ID": 8,
-    "UCI_CODE": "FVC",
+    "UCI_CODE": "DEN",
     "NAME": "Exclusion (ignoring)",
     "COUNTRY": "France",
     "STAGE_VICTORIES": 0,
